@@ -1,0 +1,25 @@
+body {
+    background-color: #ffff;
+    padding: 0px;
+    margin: 0px;
+}
+table{
+    background-color: burlywood;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-style: solid ;
+    border-color: #ff7f502e;
+    border-width: 5px;
+
+}
+td{
+    padding: 5px;
+}
+td .boton{
+    margin: 0px;
+    padding: 5px;
+    background-color:#000000;
+    margin-left: 50px;
+    color: #ffff;
+}
