@@ -21,7 +21,7 @@
     //puede usarse una variable de tipo string dentro de otro string
     $nombre = "joel";
     echo "hola $nombre <br>";
-
+        //cosas que puedes
     // strcmp y strcasecmp
     // strcmp = compara mayusculas 
     // strcasecmp = compara valores de string ignorando mayusculas y minusculas
