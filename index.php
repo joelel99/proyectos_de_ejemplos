@@ -28,4 +28,7 @@ echo $nombre . "<br>";
 echo '<a href = "bucles.php">ejemplos de incremento</a>' . "<br>";
 echo '<a href = "strings.php">strings</a>' . "<br>";
 echo '<a href = "ejercicio1.php">ejercicio 1</a>' . "<br>";
+echo '<a href = "constantes.php">constantes</a>' . "<br>";
+echo '<a href = "ejercicio2.php">ejercicio de operadores</a>' . "<br>";
+echo '<a href = "calcu_html.html">calculadora con funciones</a>' . "<br>";
 ?>
