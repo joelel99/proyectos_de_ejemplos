@@ -6,7 +6,7 @@
     $operacion = $_POST["operacion"];
     calculando($operacion);
   }
-
+di
   function calculando($igualdad_de_operaciones){
 
     if (!strcmp("Suma",$igualdad_de_operaciones) ) {
